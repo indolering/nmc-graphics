@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="140px" height="137.5px" viewBox="0 0 140 137.5" enable-background="new 0 0 140 137.5" xml:space="preserve">
+<symbol  id="Half-N_3" viewBox="-41.6 -78.2 83.2 156.4">
+	<g id="Vertical_1_">
+	</g>
+	<g id="flange_2_">
+	</g>
+	<g id="flange_1_">
+		<polyline fill="#FFFFFF" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="-32.6,77.7 -41.1,63.5 
+			-41.1,-63.6 -32.6,-77.7 		"/>
+		<polygon fill="#FFFFFF" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="41.1,-10.2 -15.6,77.7 
+			-15.6,77.7 -32.6,77.7 -32.6,-77.7 -15.6,-77.7 -15.6,50.7 41.1,-37.1 		"/>
+	</g>
+</symbol>
+<symbol  id="N_2_" viewBox="-61.16 -99.476 122.319 198.953">
+	
+		<use xlink:href="#Half-N_3"  width="83.2" height="156.4" x="-41.6" y="-78.2" transform="matrix(0.4206 0 0.0653 0.3704 -39.2217 70.1973)" overflow="visible"/>
+	
+		<use xlink:href="#Half-N_3"  width="83.2" height="156.4" x="-41.6" y="-78.2" transform="matrix(-0.4495 0 -0.0698 -0.3959 37.7461 -68.2148)" overflow="visible"/>
+</symbol>
+<g id="Layer_3">
+	<g id="N">
+	</g>
+	<circle fill="#29ABE2" stroke="#0071BC" stroke-width="5.6693" stroke-miterlimit="10" cx="70.5" cy="69.3" r="55.3"/>
+	<g id="Vertical_2_">
+	</g>
+	<g id="flange_4_">
+	</g>
+	<g id="Vertical_3_">
+	</g>
+	<g id="flange_8_">
+	</g>
+</g>
+<g id="White_N">
+	<g>
+		<g>
+			
+				<use xlink:href="#Half-N_3"  width="83.2" height="156.4" id="XMLID_3_" x="-41.6" y="-78.2" transform="matrix(0.4209 0 0.0654 -0.3707 64.1855 71.2607)" overflow="visible"/>
+			
+				<use xlink:href="#Half-N_3"  width="83.2" height="156.4" x="-41.6" y="-78.2" transform="matrix(-0.4209 0 -0.0654 0.3707 75.8145 66.2188)" overflow="visible"/>
+		</g>
+		<g>
+			
+				<use xlink:href="#Half-N_3"  width="83.2" height="156.4" x="-41.6" y="-78.2" transform="matrix(-0.4495 0 -0.0698 0.3959 276.21 429.3076)" overflow="visible"/>
+		</g>
+		
+			<use xlink:href="#N_2_"  width="122.319" height="198.953" x="-61.16" y="-99.476" transform="matrix(0.3413 0 0 -0.3413 270 432.0498)" overflow="visible"/>
+		<g id="N_1_">
+		</g>
+		<g id="Vertical_6_">
+		</g>
+		<g id="flange_6_">
+		</g>
+		<g id="Vertical_4_">
+		</g>
+		<g id="flange_3_">
+		</g>
+	</g>
+</g>
+</svg>
