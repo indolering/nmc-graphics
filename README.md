@@ -1,7 +1,7 @@
 Namecoin Graphics
 =================
 
-This is a repo for visual collateral (logos, badges, etc) for Namecoin.  Branding guidelines and other extensions are being worked on.  Feel free to experiment and expand on the designs, shading would be a good place to start.
+This is a repo for visual collateral (logos, badges, etc) for Namecoin.  Most of it is still very raw and branding guidelines and other extensions are being worked on.  Feel free to flesh out the designs, even basic shading would be a good start.
 
 If you are a professional design, we would like to go through a thorough design process and build a compelling visual identity for Namecoin.
 
