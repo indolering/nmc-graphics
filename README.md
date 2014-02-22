@@ -3,7 +3,7 @@ Namecoin Graphics
 
 This is a repo for visual collateral (logos, badges, etc) for Namecoin.  Branding guidelines and other extensions are being worked on.  Feel free to experiment and expand on the designs, shading would be a good place to start.
 
-If you are a professional design, we would like to go through a throrough design process and build a visual identity for Namecoin.
+If you are a professional design, we would like to go through a thorough design process and build a compelling visual identity for Namecoin.
 
 | ![Logo](https://raw.github.com/indolering/nmc-graphics/master/png/250/nmc-coinage-front.png) |      ![Logo](https://raw.github.com/indolering/nmc-graphics/master/png/250/nmc-coinage-back.png) |
 | :-----------: | -----------: |
