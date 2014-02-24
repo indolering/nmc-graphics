@@ -5,10 +5,17 @@ This is a repo for visual collateral (logos, badges, etc) for Namecoin.  Most of
 
 If you are a professional design, we would like to go through a thorough design process and build a compelling visual identity for Namecoin.
 
-| ![Logo](https://raw.github.com/indolering/nmc-graphics/master/png/250/nmc-coinage-front.png) |      ![Logo](https://raw.github.com/indolering/nmc-graphics/master/png/250/nmc-coinage-back.png) |
+| ![Coin Front](https://raw.github.com/indolering/nmc-graphics/master/png/250/nmc-coinage-front.png) |      ![Coin Back](https://raw.github.com/indolering/nmc-graphics/master/png/250/nmc-coinage-back.png) |
+| :-----------: | :-----------: |
+| Coin Mockup Front | Coin Mockup Back |
+
+| ![Badge](https://raw.github.com/indolering/nmc-graphics/master/png/250/badge-prototype.png) |      ![Mini-Logo](https://raw.github.com/indolering/nmc-graphics/master/png/100/nmc-logo-mini.png) |
 | :-----------: | -----------: |
+| Namecoin Nerd Merit Badge | Mini Logo |
+
 
 ![logo license](http://i.creativecommons.org/l/by-sa/4.0/80x15.png)
+
 
 Directory and Graphics Structure
 ================================
