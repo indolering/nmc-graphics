@@ -23,7 +23,7 @@ The "master" format for the graphics is in Illustrator.  The nmc-logo and nmc-tr
 
 Even with the export, however, the logo and triangle are both made of up cloned objects. This is great if you are going for precision but it's a PITA if you want to just shit done.  I've exported "flattened" versions in SVG format called "plain-n" and "plain-trangle" which are simple paths and shapes without any linking or cloning.
 
-Exporting is semi-automated and will eventually be done using GULP or a similar build tool.  For now, I've included actions to convert to PNGs in /meta/ - they bring up the save-to-web screen with the correct settings. : /  JPEGs are created by converting PNGs.
+Exporting is semi-automated and should eventually be done using GULP or a similar build tool.  For now, I've included Illustrator actions to convert to 1000px PNGs as well as XnConvert scripts for 100px, 250px, and 500px in /scripts/.
 
 License
 =======
