@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="113.385px" height="113.386px" viewBox="0 0 113.385 113.386" style="enable-background:new 0 0 113.385 113.386;"
+	 width="255.117px" height="127.56px" viewBox="0 0 255.117 127.56" style="enable-background:new 0 0 255.117 127.56;"
 	 xml:space="preserve">
 <style type="text/css">
 <![CDATA[
@@ -14332,54 +14332,14 @@ AzQCIgM3AzkCLgNDA0MCMQAA")}
 			-7.086,70.866 -24.094,70.866 -24.094,-84.54 -7.086,-84.54 -7.086,43.936 49.604,-43.937 		"/>
 	</g>
 </symbol>
-<symbol  id="QuarterBar" viewBox="-32.467 -5.979 26 11.898">
-	<polyline style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" points="-7.467,-4.637 -22.967,-4.637 -22.967,5.363 
-		-7.467,5.363 	"/>
-	<polygon style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:bevel;stroke-miterlimit:10;" points="-31.967,-5.481 -22.967,-4.521 
-		-22.967,5.479 -31.967,0.68 	"/>
-	<polygon style="fill:#FFFFFF;" points="-6.467,-4.137 -21.467,-4.137 -21.467,4.863 -6.467,4.863 	"/>
-	<polygon style="display:none;fill:none;" points="-32.467,5.863 -6.467,5.863 -6.467,-5.137 -32.467,-5.137 	"/>
+<symbol  id="QuarterBar" viewBox="-32.852 -5.979 26 11.898">
+	<polyline style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" points="-7.852,-4.637 -23.352,-4.637 -23.352,5.363 
+		-7.852,5.363 	"/>
+	<polygon style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:bevel;stroke-miterlimit:10;" points="-32.352,-5.481 -23.352,-4.521 
+		-23.352,5.479 -32.352,0.68 	"/>
+	<polygon style="fill:#FFFFFF;" points="-6.852,-4.137 -21.852,-4.137 -21.852,4.863 -6.852,4.863 	"/>
+	<polygon style="display:none;fill:none;" points="-32.852,5.863 -6.852,5.863 -6.852,-5.137 -32.852,-5.137 	"/>
 </symbol>
-<g>
-	<path style="fill:#FFFFFF;" d="M-70.924,112.197c-30.202,0-54.773-24.573-54.773-54.777c0-30.202,24.571-54.773,54.773-54.773
-		c30.203,0,54.775,24.571,54.775,54.773C-16.148,87.624-40.721,112.197-70.924,112.197z"/>
-	<path d="M-70.924,3.146c29.928,0,54.275,24.347,54.275,54.273c0,29.929-24.348,54.277-54.275,54.277
-		c-29.927,0-54.273-24.349-54.273-54.277C-125.197,27.493-100.851,3.146-70.924,3.146 M-70.924,2.146
-		c-30.528,0-55.273,24.746-55.273,55.273c0,30.529,24.745,55.277,55.273,55.277c30.53,0,55.275-24.748,55.275-55.277
-		C-15.648,26.893-40.394,2.146-70.924,2.146L-70.924,2.146z"/>
-</g>
-<g>
-	<path style="fill:#FFFFFF;" d="M56.067,111.468c-30.202,0-54.773-24.573-54.773-54.777c0-30.202,24.571-54.773,54.773-54.773
-		c30.203,0,54.775,24.571,54.775,54.773C110.843,86.895,86.271,111.468,56.067,111.468z"/>
-	<path d="M56.067,2.417c29.928,0,54.275,24.347,54.275,54.273c0,29.929-24.348,54.277-54.275,54.277
-		c-29.927,0-54.273-24.349-54.273-54.277C1.794,26.764,26.141,2.417,56.067,2.417 M56.067,1.417
-		c-30.528,0-55.273,24.746-55.273,55.273c0,30.529,24.745,55.277,55.273,55.277c30.53,0,55.275-24.748,55.275-55.277
-		C111.343,26.163,86.598,1.417,56.067,1.417L56.067,1.417z"/>
-</g>
-<circle style="fill:none;" cx="-70.923" cy="57.422" r="49.139"/>
-<text transform="matrix(0.7568 0.6536 -0.6536 0.7568 -103.6221 94.1104)" style="font-family:'Ubuntu-Bold'; font-size:5;">i</text>
-<text transform="matrix(0.7927 0.6096 -0.6096 0.7927 -102.3496 95.2451)" style="font-family:'Ubuntu-Bold'; font-size:5;">n</text>
-<text transform="matrix(0.8235 0.5673 -0.5673 0.8235 -99.2568 97.5781)" style="font-family:'Ubuntu-Bold'; font-size:5;"> </text>
-<text transform="matrix(0.8402 0.5423 -0.5423 0.8402 -98.1953 98.3105)" style="font-family:'Ubuntu-Bold'; font-size:5;">i</text>
-<text transform="matrix(0.8695 0.4939 -0.4939 0.8695 -96.7988 99.2461)" style="font-family:'Ubuntu-Bold'; font-size:5;">n</text>
-<text transform="matrix(0.9022 0.4314 -0.4314 0.9022 -93.3867 101.1602)" style="font-family:'Ubuntu-Bold'; font-size:5;">f</text>
-<text transform="matrix(0.9314 0.364 -0.364 0.9314 -90.6406 102.4883)" style="font-family:'Ubuntu-Bold'; font-size:5;">o</text>
-<text transform="matrix(0.9567 0.2911 -0.2911 0.9567 -86.8408 103.9551)" style="font-family:'Ubuntu-Bold'; font-size:5;">r</text>
-<text transform="matrix(0.9778 0.2097 -0.2097 0.9778 -83.4678 104.9971)" style="font-family:'Ubuntu-Bold'; font-size:5;">m</text>
-<text transform="matrix(0.9922 0.1245 -0.1245 0.9922 -78.8936 105.9512)" style="font-family:'Ubuntu-Bold'; font-size:5;">a</text>
-<text transform="matrix(0.9985 0.0546 -0.0546 0.9985 -75.1816 106.4023)" style="font-family:'Ubuntu-Bold'; font-size:5;">t</text>
-<text transform="matrix(0.9999 0.0162 -0.0162 0.9999 -72.0322 106.5469)" style="font-family:'Ubuntu-Bold'; font-size:5;">i</text>
-<text transform="matrix(0.9986 -0.0522 0.0522 0.9986 -70.29 106.5967)" style="font-family:'Ubuntu-Bold'; font-size:5;">o</text>
-<text transform="matrix(0.9911 -0.1331 0.1331 0.9911 -66.1934 106.3721)" style="font-family:'Ubuntu-Bold'; font-size:5;">n</text>
-<text transform="matrix(0.9826 -0.1858 0.1858 0.9826 -62.3242 105.8135)" style="font-family:'Ubuntu-Bold'; font-size:5;"> </text>
-<text transform="matrix(0.9689 -0.2477 0.2477 0.9688 -61.0127 105.6191)" style="font-family:'Ubuntu-Bold'; font-size:5;">w</text>
-<text transform="matrix(0.945 -0.3271 0.3271 0.945 -56.2744 104.3643)" style="font-family:'Ubuntu-Bold'; font-size:5;">e</text>
-<text transform="matrix(0.9292 -0.3697 0.3697 0.9292 -53.3242 103.3193)" style="font-family:'Ubuntu-Bold'; font-size:5;"> </text>
-<text transform="matrix(0.9112 -0.412 0.412 0.9112 -52.1016 102.8516)" style="font-family:'Ubuntu-Bold'; font-size:5;">t</text>
-<text transform="matrix(0.8812 -0.4727 0.4727 0.8812 -49.1992 101.541)" style="font-family:'Ubuntu-Bold'; font-size:5;">r</text>
-<text transform="matrix(0.8443 -0.5359 0.5359 0.8443 -46.1182 99.8857)" style="font-family:'Ubuntu-Bold'; font-size:5;">u</text>
-<text transform="matrix(0.8057 -0.5923 0.5923 0.8057 -43.0225 97.9033)" style="font-family:'Ubuntu-Bold'; font-size:5;">s</text>
-<text transform="matrix(0.7665 -0.6423 0.6423 0.7665 -40.5605 96.0889)" style="font-family:'Ubuntu-Bold'; font-size:5;">t</text>
 <g id="N">
 </g>
 <g id="Vertical_2_">
@@ -14390,217 +14350,566 @@ AzQCIgM3AzkCLgNDA0MCMQAA")}
 </g>
 <g id="flange_8_">
 </g>
-<text transform="matrix(1 0 0 1 -32.8711 71.9434)" style="font-family:'Ubuntu-Bold'; font-size:4.5;">2011</text>
-<text transform="matrix(1 0 0 1 -35.5127 77.3369)" style="font-family:'Ubuntu-Bold'; font-size:4.5;">2014</text>
-<path style="fill:none;" d="M102.892,57.288c0,25.654-20.795,46.449-46.449,46.449c-25.651,0-46.447-20.795-46.447-46.449
-	c0-25.65,20.796-46.446,46.447-46.446C82.097,10.842,102.892,31.638,102.892,57.288z"/>
-<text transform="matrix(-0.3417 -0.9398 0.9398 -0.3417 13.3057 74.6152)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">T</text>
-<text transform="matrix(-0.2724 -0.9622 0.9622 -0.2724 12.2529 71.752)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">h</text>
-<text transform="matrix(-0.202 -0.9794 0.9794 -0.202 11.2617 68.2178)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">e</text>
-<text transform="matrix(-0.158 -0.9874 0.9874 -0.158 10.6768 65.2832)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;"> </text>
-<text transform="matrix(-0.1096 -0.994 0.994 -0.1096 10.4619 64.1123)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">r</text>
-<text transform="matrix(-0.0577 -0.9983 0.9983 -0.0577 10.1191 60.8076)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">i</text>
-<text transform="matrix(-0.0162 -0.9999 0.9999 -0.0162 10.0244 59.2461)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">g</text>
-<text transform="matrix(0.0711 -0.9975 0.9975 0.0711 9.9824 55.7822)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">h</text>
-<text transform="matrix(0.1425 -0.9898 0.9898 0.1425 10.25 52.1455)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">t</text>
-<text transform="matrix(0.1874 -0.9823 0.9823 0.1874 10.7061 49.127)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;"> </text>
-<text transform="matrix(0.2326 -0.9726 0.9726 0.2326 10.9072 47.9551)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">t</text>
-<text transform="matrix(0.3051 -0.9523 0.9523 0.3051 11.5928 45.001)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">o</text>
-<text transform="matrix(0.3575 -0.9339 0.9339 0.3575 12.833 41.2529)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;"> </text>
-<text transform="matrix(0.4022 -0.9155 0.9155 0.4022 13.2197 40.166)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">r</text>
-<text transform="matrix(0.464 -0.8859 0.8858 0.464 14.5605 37.123)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">e</text>
-<text transform="matrix(0.5225 -0.8526 0.8526 0.5225 15.9561 34.4502)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">c</text>
-<text transform="matrix(0.5783 -0.8158 0.8158 0.5783 17.6406 31.7061)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">e</text>
-<text transform="matrix(0.6173 -0.7867 0.7867 0.6173 19.3877 29.2686)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">i</text>
-<text transform="matrix(0.6598 -0.7514 0.7514 0.6598 20.3262 28.0254)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">v</text>
-<text transform="matrix(0.7113 -0.7029 0.7029 0.7113 22.709 25.3242)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">e</text>
-<text transform="matrix(0.742 -0.6704 0.6704 0.742 24.8672 23.2197)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;"> </text>
-<text transform="matrix(0.7746 -0.6325 0.6325 0.7746 25.709 22.4189)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">&amp;</text>
-<text transform="matrix(0.8053 -0.5929 0.5929 0.8053 28.4453 20.2197)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;"> </text>
-<text transform="matrix(0.8227 -0.5685 0.5685 0.8227 29.4131 19.5039)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">i</text>
-<text transform="matrix(0.8577 -0.5141 0.5141 0.8577 30.6572 18.584)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">m</text>
-<text transform="matrix(0.8972 -0.4416 0.4416 0.8972 34.5 16.3086)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">p</text>
-<text transform="matrix(0.9272 -0.3747 0.3747 0.9272 37.3623 14.8896)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">a</text>
-<text transform="matrix(0.9526 -0.3044 0.3044 0.9525 40.6875 13.5498)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">r</text>
-<text transform="matrix(0.9711 -0.2386 0.2386 0.9711 43.8184 12.5508)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">t</text>
-<text transform="matrix(0.9811 -0.1936 0.1936 0.9811 46.8057 11.8389)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;"> </text>
-<text transform="matrix(0.9864 -0.1642 0.1642 0.9864 47.9707 11.6055)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">i</text>
-<text transform="matrix(0.9942 -0.1073 0.1073 0.9942 49.5049 11.3174)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">n</text>
-<text transform="matrix(0.9993 -0.0372 0.0372 0.9993 53.2373 10.9277)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">f</text>
-<text transform="matrix(0.9994 0.0348 -0.0348 0.9994 56.0967 10.8018)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">o</text>
-<text transform="matrix(0.9938 0.1112 -0.1112 0.9938 59.9951 10.9453)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">r</text>
-<text transform="matrix(0.9809 0.1944 -0.1944 0.9809 63.2998 11.2891)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">m</text>
-<text transform="matrix(0.9605 0.2785 -0.2785 0.9605 67.6523 12.166)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">a</text>
-<text transform="matrix(0.938 0.3467 -0.3467 0.938 71.0947 13.1719)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">t</text>
-<text transform="matrix(0.9195 0.3931 -0.3931 0.9195 73.9531 14.248)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">i</text>
-<text transform="matrix(0.8945 0.4471 -0.4471 0.8945 75.3975 14.8252)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">o</text>
-<text transform="matrix(0.8546 0.5193 -0.5193 0.8546 78.8994 16.5762)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">n</text>
-<text transform="matrix(0.8257 0.5642 -0.5641 0.8257 82.1152 18.5703)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;"> </text>
-<text transform="matrix(0.7999 0.6001 -0.6001 0.7999 83.0928 19.2129)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">r</text>
-<text transform="matrix(0.7627 0.6468 -0.6468 0.7627 85.4424 20.9795)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">e</text>
-<text transform="matrix(0.7191 0.6949 -0.6949 0.7191 87.4785 22.6895)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">g</text>
-<text transform="matrix(0.6682 0.744 -0.744 0.6682 89.9072 25.0342)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">a</text>
-<text transform="matrix(0.6173 0.7867 -0.7867 0.6173 92.083 27.4648)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">r</text>
-<text transform="matrix(0.5623 0.8269 -0.8269 0.5623 93.8926 29.752)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">d</text>
-<text transform="matrix(0.5076 0.8616 -0.8616 0.5076 95.8369 32.6357)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">l</text>
-<text transform="matrix(0.4586 0.8886 -0.8886 0.4586 97.1289 34.8213)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">e</text>
-<text transform="matrix(0.4064 0.9137 -0.9137 0.4064 98.3496 37.1865)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">s</text>
-<text transform="matrix(0.3532 0.9356 -0.9355 0.3532 99.4307 39.6123)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">s</text>
-<text transform="matrix(0.3155 0.9489 -0.9489 0.3155 100.3691 42.1445)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;"> </text>
-<text transform="matrix(0.268 0.9634 -0.9634 0.268 100.7129 43.0713)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">o</text>
-<text transform="matrix(0.2036 0.9791 -0.9791 0.2036 101.6484 46.4844)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">f</text>
-<text transform="matrix(0.165 0.9863 -0.9863 0.165 102.168 49.0654)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;"> </text>
-<text transform="matrix(0.1261 0.992 -0.992 0.1261 102.3506 50.0537)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">f</text>
-<text transform="matrix(0.0664 0.9978 -0.9978 0.0664 102.6885 52.666)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">r</text>
-<text transform="matrix(-0.0162 0.9999 -0.9999 -0.0162 102.9209 55.5557)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">o</text>
-<text transform="matrix(-0.0758 0.9971 -0.9971 -0.0758 102.8877 59.125)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">n</text>
-<text transform="matrix(-0.1417 0.9899 -0.9899 -0.1417 102.6162 62.5596)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">t</text>
-<text transform="matrix(-0.1859 0.9826 -0.9826 -0.1859 102.2148 65.2676)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">i</text>
-<text transform="matrix(-0.2287 0.9735 -0.9735 -0.2287 101.9697 66.6416)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">e</text>
-<text transform="matrix(-0.2873 0.9578 -0.9578 -0.2873 101.3691 69.2227)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">r</text>
-<text transform="matrix(-0.3453 0.9385 -0.9385 -0.3453 100.5186 72.0479)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">s</text>
-<circle style="fill:none;" cx="56.443" cy="57.29" r="49.592"/>
-<text transform="matrix(0.4807 0.8769 -0.8769 0.4807 12.707 80.6904)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;"> </text>
-<text transform="matrix(0.5122 0.8589 -0.8589 0.5122 13.167 81.5596)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">&#xA7;</text>
-<text transform="matrix(0.5573 0.8303 -0.8303 0.5573 14.5361 83.8486)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">1</text>
-<text transform="matrix(0.6001 0.7999 -0.7999 0.6001 15.9941 86.0146)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">9</text>
-<text transform="matrix(0.6284 0.7779 -0.7779 0.6284 17.5586 88.0752)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;"> </text>
-<text transform="matrix(0.6604 0.751 -0.751 0.6604 18.167 88.8633)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">U</text>
-<text transform="matrix(0.7082 0.7061 -0.706 0.7082 20.3203 91.3037)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">n</text>
-<text transform="matrix(0.74 0.6726 -0.6726 0.74 22.6211 93.5625)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">i</text>
-<text transform="matrix(0.7684 0.64 -0.64 0.7684 23.6182 94.4922)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">v</text>
-<text transform="matrix(0.8026 0.5965 -0.5965 0.8026 25.9189 96.3965)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">e</text>
-<text transform="matrix(0.8336 0.5523 -0.5523 0.8336 27.9668 97.918)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">r</text>
-<text transform="matrix(0.8624 0.5063 -0.5063 0.8623 30.3135 99.4658)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">s</text>
-<text transform="matrix(0.89 0.4559 -0.4559 0.89 32.542 100.7783)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">a</text>
-<text transform="matrix(0.914 0.4057 -0.4057 0.914 35.2852 102.1689)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">l</text>
-<text transform="matrix(0.9274 0.374 -0.374 0.9274 37.4834 103.1299)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;"> </text>
-<text transform="matrix(0.9427 0.3337 -0.3337 0.9427 38.4033 103.5254)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">D</text>
-<text transform="matrix(0.9607 0.2777 -0.2777 0.9607 41.4824 104.6016)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">e</text>
-<text transform="matrix(0.9744 0.2249 -0.2249 0.9744 43.9287 105.3076)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">c</text>
-<text transform="matrix(0.985 0.1728 -0.1728 0.985 46.6758 105.9346)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">l</text>
-<text transform="matrix(0.9931 0.1175 -0.1175 0.9931 49.0752 106.3613)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">a</text>
-<text transform="matrix(0.9983 0.0585 -0.0585 0.9983 52.1523 106.7168)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">r</text>
-<text transform="matrix(0.9999 0.0162 -0.0162 0.9999 54.9141 106.8584)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">a</text>
-<text transform="matrix(0.9984 -0.0562 0.0562 0.9984 58.0303 106.8721)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">t</text>
-<text transform="matrix(0.9954 -0.0955 0.0955 0.9954 60.5957 106.7148)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">i</text>
-<text transform="matrix(0.9897 -0.1432 0.1432 0.9897 62 106.6006)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">o</text>
-<text transform="matrix(0.9778 -0.2097 0.2097 0.9778 65.3594 106.1074)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">n</text>
-<text transform="matrix(0.9679 -0.2514 0.2514 0.9679 68.5039 105.4062)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;"> </text>
-<text transform="matrix(0.9558 -0.294 0.294 0.9558 69.4893 105.1758)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">o</text>
-<text transform="matrix(0.9366 -0.3503 0.3503 0.9366 72.6953 104.1729)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">f</text>
-<text transform="matrix(0.9237 -0.3832 0.3832 0.9237 75.0098 103.292)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;"> </text>
-<text transform="matrix(0.9064 -0.4224 0.4224 0.9064 75.9482 102.9258)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">H</text>
-<text transform="matrix(0.8769 -0.4807 0.4807 0.8769 78.8896 101.5498)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">u</text>
-<text transform="matrix(0.8394 -0.5435 0.5435 0.8394 81.75 99.9912)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">m</text>
-<text transform="matrix(0.7986 -0.6019 0.6019 0.7986 85.0752 97.8135)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">a</text>
-<text transform="matrix(0.7583 -0.6519 0.6519 0.7583 87.5693 95.9307)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">n</text>
-<text transform="matrix(0.7299 -0.6836 0.6835 0.7299 90 93.8066)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;"> </text>
-<text transform="matrix(0.704 -0.7102 0.7102 0.704 90.7207 93.1533)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">R</text>
-<text transform="matrix(0.6737 -0.739 0.739 0.6737 92.666 91.167)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">i</text>
-<text transform="matrix(0.6394 -0.7689 0.7689 0.6394 93.6025 90.168)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">g</text>
-<text transform="matrix(0.5881 -0.8088 0.8088 0.5881 95.6621 87.6865)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">h</text>
-<text transform="matrix(0.5391 -0.8423 0.8422 0.5391 97.5723 85.0352)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">t</text>
-<text transform="matrix(0.4946 -0.8692 0.8691 0.4946 98.9707 82.8438)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">s</text>
 <g>
 	<g>
 		<defs>
-			<rect id="SVGID_1_" x="26.63" y="33.463" width="59.304" height="53.789"/>
+			<rect id="SVGID_1_" x="7.853" y="9.308" width="111.967" height="110.551"/>
 		</defs>
 		<clipPath id="SVGID_2_">
 			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 		</clipPath>
 		<g style="clip-path:url(#SVGID_2_);">
 			<defs>
-				<rect id="SVGID_3_" x="13.759" y="17.592" width="85.046" height="85.047"/>
+				<rect id="SVGID_3_" x="6.435" y="7.775" width="113.385" height="113.386"/>
 			</defs>
 			<clipPath id="SVGID_4_">
 				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
 			</clipPath>
-			<g style="clip-path:url(#SVGID_4_);">
-				<defs>
-					<rect id="SVGID_5_" x="26.63" y="33.463" width="59.304" height="53.789"/>
-				</defs>
-				<clipPath id="SVGID_6_">
-					<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
-				</clipPath>
-				<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="51.555,86.945 72.3,50.021 49.239,50.006 44.817,42.103 
-					85.648,42.097 60.738,86.969 				"/>
-				<polygon style="clip-path:url(#SVGID_6_);fill:none;stroke:#000000;stroke-width:0.567;stroke-linejoin:round;" points="
-					51.555,86.945 72.3,50.021 49.239,50.006 44.817,42.103 85.648,42.097 60.738,86.969 				"/>
-				<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="51.554,86.945 26.914,42.103 31.431,33.971 51.872,71.015 
-					63.279,50.009 72.315,50.009 				"/>
-				<polygon style="clip-path:url(#SVGID_6_);fill:none;stroke:#000000;stroke-width:0.567;stroke-linejoin:round;" points="
-					51.554,86.945 26.914,42.103 31.431,33.971 51.872,71.015 63.279,50.009 72.315,50.009 				"/>
-				<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="51.877,71.007 56.383,62.709 44.796,42.097 85.649,42.075 
-					81.35,33.746 31.434,33.975 				"/>
-				<polygon style="clip-path:url(#SVGID_6_);fill:none;stroke:#000000;stroke-width:0.567;stroke-linejoin:round;" points="
-					51.877,71.007 56.383,62.709 44.796,42.097 85.649,42.075 81.35,33.746 31.434,33.975 				"/>
-			</g>
+			<path style="clip-path:url(#SVGID_4_);fill:#FFFFFF;" d="M63.126,119.358c-30.202,0-54.773-24.573-54.773-54.777
+				c0-30.201,24.571-54.773,54.773-54.773c30.203,0,54.775,24.572,54.775,54.773C117.901,94.785,93.329,119.358,63.126,119.358"/>
+			<path style="clip-path:url(#SVGID_4_);" d="M63.126,10.308c29.928,0,54.275,24.347,54.275,54.273
+				c0,29.929-24.348,54.277-54.275,54.277c-29.927,0-54.273-24.349-54.273-54.277C8.853,34.654,33.199,10.308,63.126,10.308
+				 M63.126,9.308c-30.528,0-55.273,24.746-55.273,55.273c0,30.529,24.745,55.277,55.273,55.277
+				c30.53,0,55.275-24.748,55.275-55.277C118.401,34.054,93.656,9.308,63.126,9.308"/>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.7607 0.6491 -0.6491 0.7607 30.6494 101.4668)" style="font-family:'Ubuntu-Bold'; font-size:5;">I</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.7963 0.6049 -0.6049 0.7963 31.9277 102.5947)" style="font-family:'Ubuntu-Bold'; font-size:5;">N</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.8269 0.5623 -0.5623 0.8269 35.0352 104.9092)" style="font-family:'Ubuntu-Bold'; font-size:5.0001;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.8435 0.5372 -0.5372 0.8435 36.1006 105.6377)" style="font-family:'Ubuntu-Bold'; font-size:5;">I</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.8725 0.4887 -0.4887 0.8725 37.5029 106.5625)" style="font-family:'Ubuntu-Bold'; font-size:5;">N</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9051 0.4252 -0.4252 0.9051 40.9619 108.4727)" style="font-family:'Ubuntu-Bold'; font-size:5;">F</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9334 0.359 -0.359 0.9333 43.6514 109.7539)" style="font-family:'Ubuntu-Bold'; font-size:5;">O</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9585 0.2852 -0.2852 0.9585 47.4941 111.2129)" style="font-family:'Ubuntu-Bold'; font-size:5;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9789 0.2043 -0.2043 0.9789 50.8408 112.2256)" style="font-family:'Ubuntu-Bold'; font-size:5;">M</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9929 0.1191 -0.1191 0.9929 55.4238 113.1553)" style="font-family:'Ubuntu-Bold'; font-size:5;">A</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9983 0.0577 -0.0577 0.9983 58.7109 113.5498)" style="font-family:'Ubuntu-Bold'; font-size:5;">T</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9999 0.0162 -0.0162 0.9999 61.8584 113.7061)" style="font-family:'Ubuntu-Bold'; font-size:5;">I</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9988 -0.049 0.049 0.9988 63.6025 113.7588)" style="font-family:'Ubuntu-Bold'; font-size:5;">O</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9915 -0.13 0.13 0.9915 67.7012 113.5479)" style="font-family:'Ubuntu-Bold'; font-size:5;">N</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9833 -0.182 0.182 0.9833 71.5361 113.0078)" style="font-family:'Ubuntu-Bold'; font-size:5;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9696 -0.2446 0.2446 0.9696 72.8867 112.8105)" style="font-family:'Ubuntu-Bold'; font-size:5;">W</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.946 -0.3242 0.3242 0.946 77.6318 111.5703)" style="font-family:'Ubuntu-Bold'; font-size:5;">E</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9303 -0.3668 0.3668 0.9303 80.5859 110.5322)" style="font-family:'Ubuntu-Bold'; font-size:5;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.9128 -0.4085 0.4085 0.9127 81.7773 110.085)" style="font-family:'Ubuntu-Bold'; font-size:5;">T</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.8827 -0.47 0.47 0.8827 84.7158 108.7676)" style="font-family:'Ubuntu-Bold'; font-size:5;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.8467 -0.5321 0.5321 0.8467 87.7402 107.1582)" style="font-family:'Ubuntu-Bold'; font-size:5;">U</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.8084 -0.5887 0.5887 0.8084 90.8457 105.1875)" style="font-family:'Ubuntu-Bold'; font-size:5;">S</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(0.7708 -0.6371 0.6371 0.7708 93.2266 103.4541)" style="font-family:'Ubuntu-Bold'; font-size:5;">T</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(1 0 0 1 101.1807 79.1055)" style="font-family:'Ubuntu-Bold'; font-size:4.5;">2011</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<text transform="matrix(1 0 0 1 98.5391 84.501)" style="font-family:'Ubuntu-Bold'; font-size:4.5;">2014</text>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<defs>
+				<rect id="SVGID_5_" x="37.324" y="34.356" width="51.551" height="54.573"/>
+			</defs>
+			<clipPath id="SVGID_6_">
+				<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+			</clipPath>
+			<polyline style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="50.19,34.547 46.326,39.128 37.839,84.159 39.978,88.74 			"/>
+			
+				<polyline style="clip-path:url(#SVGID_6_);fill:none;stroke:#000000;stroke-width:0.4189;stroke-linejoin:round;stroke-miterlimit:10;" points="
+				50.19,34.547 46.326,39.128 37.839,84.159 39.978,88.74 			"/>
+			<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="72.464,68.469 57.578,34.547 57.578,34.547 50.191,34.547 
+				39.978,88.74 47.365,88.74 55.648,44.788 70.533,78.708 			"/>
+			
+				<polygon style="clip-path:url(#SVGID_6_);fill:none;stroke:#000000;stroke-width:0.4189;stroke-linejoin:round;stroke-miterlimit:10;" points="
+				72.464,68.469 57.578,34.547 57.578,34.547 50.191,34.547 39.978,88.74 47.365,88.74 55.648,44.788 70.533,78.708 			"/>
+		</g>
+		<g style="clip-path:url(#SVGID_2_);">
+			<defs>
+				<rect id="SVGID_7_" x="37.325" y="34.537" width="51.549" height="54.573"/>
+			</defs>
+			<clipPath id="SVGID_8_">
+				<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+			</clipPath>
+			<polyline style="clip-path:url(#SVGID_8_);fill:#FFFFFF;" points="76.01,88.92 79.875,84.339 88.361,39.308 86.223,34.727 			"/>
+			
+				<polyline style="clip-path:url(#SVGID_8_);fill:none;stroke:#000000;stroke-width:0.4189;stroke-linejoin:round;stroke-miterlimit:10;" points="
+				76.01,88.92 79.875,84.339 88.361,39.308 86.223,34.727 			"/>
+			<polygon style="clip-path:url(#SVGID_8_);fill:#FFFFFF;" points="53.737,54.998 68.622,88.92 68.622,88.92 76.01,88.92 
+				86.223,34.727 78.836,34.727 70.552,78.68 55.667,44.759 			"/>
+			
+				<polygon style="clip-path:url(#SVGID_8_);fill:none;stroke:#000000;stroke-width:0.4189;stroke-linejoin:round;stroke-miterlimit:10;" points="
+				53.737,54.998 68.622,88.92 68.622,88.92 76.01,88.92 86.223,34.727 78.836,34.727 70.552,78.68 55.667,44.759 			"/>
 		</g>
 	</g>
 </g>
 <g>
 	<g>
 		<defs>
-			<rect id="SVGID_7_" x="-96.725" y="27.195" width="51.55" height="54.754"/>
+			<rect id="SVGID_9_" x="136.12" y="9.307" width="110.549" height="110.551"/>
 		</defs>
-		<clipPath id="SVGID_8_">
-			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
 		</clipPath>
-		<g style="clip-path:url(#SVGID_8_);">
+		<g style="clip-path:url(#SVGID_10_);">
 			<defs>
-				<rect id="SVGID_9_" x="-114.345" y="11.176" width="86.791" height="86.792"/>
+				<rect id="SVGID_11_" x="135.326" y="7.89" width="113.385" height="113.386"/>
 			</defs>
-			<clipPath id="SVGID_10_">
-				<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+			<clipPath id="SVGID_12_">
+				<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
 			</clipPath>
-			<g style="clip-path:url(#SVGID_10_);">
-				<defs>
-					<rect id="SVGID_11_" x="-96.725" y="26.905" width="51.55" height="55.334"/>
-				</defs>
-				<clipPath id="SVGID_12_">
-					<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
-				</clipPath>
-				<g style="clip-path:url(#SVGID_12_);">
-					<defs>
-						<polygon id="SVGID_13_" points="-6461.906,27.195 1099.1,27.195 1088.813,81.769 -6472.192,81.769 						"/>
-					</defs>
-					<clipPath id="SVGID_14_">
-						<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
-					</clipPath>
-					<polyline style="clip-path:url(#SVGID_14_);fill:#FFFFFF;" points="-83.859,27.386 -87.725,31.967 -96.211,76.999 
-						-94.072,81.579 					"/>
-					
-						<polyline style="clip-path:url(#SVGID_14_);fill:none;stroke:#000000;stroke-width:0.4105;stroke-linejoin:round;stroke-miterlimit:10;" points="
-						-83.859,27.386 -87.725,31.967 -96.211,76.999 -94.072,81.579 					"/>
-					<polygon style="clip-path:url(#SVGID_14_);fill:#FFFFFF;" points="-61.587,61.307 -76.472,27.386 -76.471,27.386 
-						-83.859,27.386 -94.072,81.579 -86.686,81.579 -78.401,37.627 -63.517,71.547 					"/>
-					
-						<polygon style="clip-path:url(#SVGID_14_);fill:none;stroke:#000000;stroke-width:0.4105;stroke-linejoin:round;stroke-miterlimit:10;" points="
-						-61.587,61.307 -76.472,27.386 -76.471,27.386 -83.859,27.386 -94.072,81.579 -86.686,81.579 -78.401,37.627 -63.517,71.547 
-											"/>
-				</g>
-				<g style="clip-path:url(#SVGID_12_);">
-					<defs>
-						<polygon id="SVGID_15_" points="6320.006,81.949 -1240.998,81.949 -1230.714,27.376 6330.291,27.376 						"/>
-					</defs>
-					<clipPath id="SVGID_16_">
-						<use xlink:href="#SVGID_15_"  style="overflow:visible;"/>
-					</clipPath>
-					<polyline style="clip-path:url(#SVGID_16_);fill:#FFFFFF;" points="-58.04,81.759 -54.175,77.178 -45.688,32.146 
-						-47.826,27.565 					"/>
-					
-						<polyline style="clip-path:url(#SVGID_16_);fill:none;stroke:#000000;stroke-width:0.4105;stroke-linejoin:round;stroke-miterlimit:10;" points="
-						-58.04,81.759 -54.175,77.178 -45.688,32.146 -47.826,27.565 					"/>
-					<polygon style="clip-path:url(#SVGID_16_);fill:#FFFFFF;" points="-80.313,47.838 -65.428,81.759 -65.428,81.759 
-						-58.04,81.759 -47.827,27.565 -55.215,27.565 -63.498,71.518 -78.383,37.597 					"/>
-					
-						<polygon style="clip-path:url(#SVGID_16_);fill:none;stroke:#000000;stroke-width:0.4105;stroke-linejoin:round;stroke-miterlimit:10;" points="
-						-80.313,47.838 -65.428,81.759 -65.428,81.759 -58.04,81.759 -47.827,27.565 -55.215,27.565 -63.498,71.518 -78.383,37.597 
-											"/>
-				</g>
-			</g>
+			<path style="clip-path:url(#SVGID_12_);fill:#FFFFFF;" d="M191.394,119.357c-30.202,0-54.773-24.573-54.773-54.777
+				c0-30.202,24.571-54.773,54.773-54.773c30.203,0,54.775,24.571,54.775,54.773C246.169,94.784,221.597,119.357,191.394,119.357"/>
+			<path style="clip-path:url(#SVGID_12_);" d="M191.394,10.307c29.928,0,54.275,24.347,54.275,54.272
+				c0,29.93-24.348,54.278-54.275,54.278c-29.927,0-54.273-24.349-54.273-54.278C137.12,34.653,161.467,10.307,191.394,10.307
+				 M191.394,9.307c-30.528,0-55.273,24.746-55.273,55.272c0,30.53,24.745,55.278,55.273,55.278
+				c30.53,0,55.275-24.748,55.275-55.278C246.669,34.053,221.924,9.307,191.394,9.307"/>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(-0.3315 -0.9434 0.9434 -0.3315 148.4492 82.043)" style="font-family:'Ubuntu-Bold'; font-size:5.0462;">T</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(-0.2627 -0.9649 0.9649 -0.2627 147.4355 79.1982)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">H</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(-0.192 -0.9814 0.9814 -0.192 146.4824 75.6484)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">E</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(-0.148 -0.989 0.989 -0.148 145.9248 72.7061)" style="font-family:'Ubuntu-Bold'; font-size:5.0462;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(-0.0994 -0.995 0.995 -0.0994 145.7207 71.5293)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(-0.0475 -0.9989 0.9989 -0.0475 145.4131 68.2178)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">I</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.0162 -0.9999 0.9999 0.0162 145.293 66.6836)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">G</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.0814 -0.9967 0.9967 0.0814 145.3262 63.1924)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">H</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.1526 -0.9883 0.9883 0.1526 145.6309 59.5635)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">T</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.1982 -0.9802 0.9802 0.1982 146.123 56.5176)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.2424 -0.9702 0.9702 0.2424 146.3301 55.3857)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">T</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.3132 -0.9497 0.9497 0.3132 147.0244 52.5117)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">O</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.3654 -0.9309 0.9308 0.3654 148.2949 48.7773)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.4099 -0.9121 0.9121 0.4099 148.6914 47.6953)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.4714 -0.882 0.8819 0.4714 150.0576 44.665)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">E</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.5289 -0.8487 0.8487 0.5289 151.457 42.0352)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">C</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.5844 -0.8115 0.8115 0.5844 153.1592 39.3047)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">E</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.6238 -0.7816 0.7816 0.6238 154.9463 36.8516)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">I</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.6659 -0.746 0.746 0.6659 155.8965 35.6182)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">V</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.7165 -0.6976 0.6976 0.7165 158.2773 32.9619)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">E</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.7475 -0.6643 0.6643 0.7475 160.4756 30.8496)" style="font-family:'Ubuntu-Bold'; font-size:5.0462;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.7798 -0.6261 0.6261 0.7798 161.3232 30.0547)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">&amp;</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.8101 -0.5863 0.5863 0.8101 164.0801 27.8799)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.8269 -0.5623 0.5623 0.8269 165.0264 27.1895)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">I</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.8616 -0.5076 0.5076 0.8616 166.2764 26.2812)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">M</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9005 -0.4348 0.4348 0.9005 170.1367 24.0332)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">P</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9274 -0.374 0.374 0.9274 172.7217 22.7637)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">A</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9528 -0.3036 0.3036 0.9528 176.0479 21.4258)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9711 -0.2386 0.2386 0.9711 179.1436 20.4414)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">T</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9811 -0.1936 0.1936 0.9811 182.1318 19.7285)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9864 -0.1642 0.1642 0.9864 183.2969 19.4941)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">I</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9942 -0.1081 0.1081 0.9941 184.7939 19.2119)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">N</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9993 -0.0372 0.0372 0.9993 188.5625 18.8174)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">F</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9995 0.0333 -0.0333 0.9994 191.3496 18.6904)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">O</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9939 0.1104 -0.1104 0.9939 195.2832 18.833)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9813 0.1928 -0.1928 0.9812 198.5557 19.168)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">M</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9607 0.2776 -0.2776 0.9607 202.9453 20.0479)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">A</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9414 0.3373 -0.3373 0.9414 205.9805 20.9189)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">T</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.9234 0.3839 -0.3839 0.9234 208.8516 21.9658)" style="font-family:'Ubuntu-Bold'; font-size:5.0462;">I</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.8989 0.4382 -0.4382 0.8989 210.3066 22.5322)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">O</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.8597 0.5109 -0.5109 0.8597 213.8242 24.2471)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;">N</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.8311 0.5561 -0.5561 0.8311 217.0615 26.209)" style="font-family:'Ubuntu-Bold'; font-size:5.0461;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.8058 0.5923 -0.5923 0.8057 218.0459 26.8447)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.7689 0.6394 -0.6394 0.7689 220.4131 28.5879)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">E</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.7258 0.6879 -0.6879 0.7258 222.4658 30.2783)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">G</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.6754 0.7375 -0.7375 0.6754 224.915 32.5996)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">A</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.625 0.7807 -0.7807 0.625 227.1143 35.0068)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.5703 0.8214 -0.8214 0.5703 228.9482 37.2773)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">D</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.516 0.8566 -0.8566 0.516 230.9189 40.1387)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">L</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.4674 0.8841 -0.8841 0.4674 232.2305 42.3125)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">E</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.4161 0.9093 -0.9093 0.4161 233.46 44.6328)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">S</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.3625 0.932 -0.932 0.3625 234.5811 47.0762)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">S</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.3249 0.9457 -0.9457 0.3249 235.542 49.5996)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.2777 0.9607 -0.9607 0.2777 235.8955 50.5195)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">O</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.2127 0.9771 -0.9771 0.2127 236.8721 53.9521)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">F</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.1743 0.9847 -0.9847 0.1743 237.418 56.5273)" style="font-family:'MyriadPro-Bold'; font-size:5.0462;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.1362 0.9907 -0.9907 0.1362 237.6016 57.4736)" style="font-family:'MyriadPro-Bold'; font-size:5.0462;">F</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.0767 0.9971 -0.9971 0.0767 237.9639 60.0752)" style="font-family:'MyriadPro-Bold'; font-size:5.0462;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.0162 0.9999 -0.9999 0.0162 238.1865 62.9932)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">O</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(-0.0656 0.9979 -0.9978 -0.0656 238.2314 66.5352)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">N</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(-0.1315 0.9913 -0.9913 -0.1315 237.9922 69.9775)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">T</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(-0.1751 0.9846 -0.9846 -0.1751 237.625 72.6572)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">I</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(-0.2188 0.9758 -0.9758 -0.2188 237.3877 74.0723)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">E</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(-0.2769 0.9609 -0.9609 -0.2769 236.8184 76.6279)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(-0.3351 0.9422 -0.9422 -0.3351 236.001 79.4648)" style="font-family:'MyriadPro-Bold'; font-size:5.0461;">S</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.484 0.8751 -0.8751 0.484 148.1211 88.7461)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.5154 0.857 -0.857 0.5154 148.585 89.6133)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">&#xA7;</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.5604 0.8282 -0.8282 0.5604 149.9639 91.8936)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">1</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.6031 0.7977 -0.7977 0.6031 151.4268 94.0547)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">9</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.6319 0.7751 -0.7751 0.6319 153.0234 96.1377)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.6637 0.748 -0.748 0.6637 153.6367 96.9238)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">U</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.7108 0.7034 -0.7034 0.7108 155.7754 99.3281)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">N</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.7425 0.6699 -0.6698 0.7425 158.083 101.5781)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">I</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.7708 0.6371 -0.6371 0.7708 159.085 102.5049)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">V</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.8053 0.5929 -0.5929 0.8053 161.4229 104.4219)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">E</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.8357 0.5492 -0.5492 0.8357 163.4473 105.915)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.8643 0.5031 -0.503 0.8643 165.7998 107.4541)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">S</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.8914 0.4532 -0.4532 0.8914 168 108.7402)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">A</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9156 0.4022 -0.4022 0.9156 170.7793 110.1396)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">L</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9289 0.3704 -0.3704 0.9289 172.9834 111.0928)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.944 0.3301 -0.3301 0.944 173.9043 111.4834)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">D</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9618 0.274 -0.274 0.9617 176.9902 112.5488)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">E</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9752 0.2211 -0.2211 0.9752 179.4414 113.2461)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">C</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9857 0.1689 -0.1689 0.9856 182.1914 113.8604)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">L</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9935 0.1136 -0.1136 0.9935 184.5967 114.2803)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">A</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9985 0.0546 -0.0546 0.9985 187.6758 114.6221)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9999 -0.0162 0.0162 0.9999 190.5605 114.7939)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">A</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9986 -0.0538 0.0538 0.9986 193.2383 114.7656)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">T</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9957 -0.0932 0.0932 0.9956 195.8037 114.6152)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">I</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9901 -0.1401 0.1401 0.9901 197.1709 114.5078)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">O</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9784 -0.2066 0.2066 0.9784 200.5352 114.0234)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">N</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9687 -0.2484 0.2484 0.9687 203.6816 113.333)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9567 -0.2911 0.2911 0.9567 204.665 113.1064)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">O</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9375 -0.3482 0.3482 0.9374 207.9141 112.0996)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">F</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9248 -0.3804 0.3804 0.9248 210.1963 111.2373)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.9077 -0.4196 0.4196 0.9077 211.1357 110.874)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">H</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.878 -0.4787 0.4787 0.878 214.1152 109.4902)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">U</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<text transform="matrix(0.841 -0.541 0.541 0.841 216.9473 107.957)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">M</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.8004 -0.5995 0.5995 0.8004 220.2793 105.7891)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">A</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.7602 -0.6497 0.6497 0.7602 222.7803 103.9121)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">N</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.732 -0.6813 0.6813 0.732 225.2178 101.7979)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;"> </text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.706 -0.7082 0.7082 0.706 225.9375 101.1475)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">R</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.6759 -0.737 0.737 0.6759 227.8896 99.1641)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">I</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.6411 -0.7675 0.7675 0.6411 228.8555 98.1406)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">G</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.5905 -0.8071 0.8071 0.5905 230.8965 95.6934)" style="font-family:'MyriadPro-Bold'; font-size:4.5367;">H</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.5416 -0.8406 0.8406 0.5416 232.8154 93.0479)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">T</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<text transform="matrix(0.4978 -0.8673 0.8673 0.4978 234.2002 90.8945)" style="font-family:'MyriadPro-Bold'; font-size:4.5368;">S</text>
+		</g>
+		<g style="clip-path:url(#SVGID_10_);">
+			<defs>
+				<rect id="SVGID_13_" x="161.929" y="41.336" width="59.306" height="53.789"/>
+			</defs>
+			<clipPath id="SVGID_14_">
+				<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+			</clipPath>
+			<polygon style="clip-path:url(#SVGID_14_);fill:#FFFFFF;" points="186.854,94.819 207.6,57.895 184.539,57.88 180.116,49.975 
+				220.948,49.969 196.038,94.842 			"/>
+			<polygon style="clip-path:url(#SVGID_14_);fill:none;stroke:#000000;stroke-width:0.567;stroke-linejoin:round;" points="
+				186.854,94.819 207.6,57.895 184.539,57.88 180.116,49.975 220.948,49.969 196.038,94.842 			"/>
+			<polygon style="clip-path:url(#SVGID_14_);fill:#FFFFFF;" points="186.854,94.819 162.213,49.975 166.729,41.844 187.172,78.888 
+				198.579,57.882 207.615,57.882 			"/>
+			<polygon style="clip-path:url(#SVGID_14_);fill:none;stroke:#000000;stroke-width:0.567;stroke-linejoin:round;" points="
+				186.854,94.819 162.213,49.975 166.729,41.844 187.172,78.888 198.579,57.882 207.615,57.882 			"/>
+			<polygon style="clip-path:url(#SVGID_14_);fill:#FFFFFF;" points="187.177,78.88 191.682,70.582 180.095,49.971 220.95,49.948 
+				216.648,41.619 166.732,41.849 			"/>
+			<polygon style="clip-path:url(#SVGID_14_);fill:none;stroke:#000000;stroke-width:0.567;stroke-linejoin:round;" points="
+				187.177,78.88 191.682,70.582 180.095,49.971 220.95,49.948 216.648,41.619 166.732,41.849 			"/>
 		</g>
 	</g>
 </g>

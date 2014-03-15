@@ -4,17 +4,21 @@
 <svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="85.039px" height="85.04px" viewBox="0 0 85.039 85.04" style="enable-background:new 0 0 85.039 85.04;"
 	 xml:space="preserve">
-<symbol  id="Half-N_2" viewBox="-33.098 -85.04 83.202 156.406">
-	<g id="Vertical_5_">
+<symbol  id="Half-N_2" viewBox="-30.266 -70.86 80.37 142.227">
+	<g id="Vertical_4_">
 	</g>
-	<g id="flange_9_">
+	<g id="flange_11_">
 	</g>
-	<g id="flange_5_">
-		<polyline style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;" points="-24.094,70.866 
-			-32.598,56.692 -32.598,-70.366 -24.094,-84.54 		"/>
+	<g id="flange_10_">
 		<polygon style="fill:#FFFFFF;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;" points="49.604,-17.008 -7.086,70.865 
-			-7.086,70.866 -24.094,70.866 -24.094,-84.54 -7.086,-84.54 -7.086,43.936 49.604,-43.937 		"/>
+			-7.086,70.866 -29.766,70.866 -29.766,-70.36 -7.086,-70.36 -7.086,43.936 49.604,-43.937 		"/>
 	</g>
+</symbol>
+<symbol  id="N_2_" viewBox="-28.346 -28.556 56.693 57.112">
+	
+		<use xlink:href="#Half-N_2"  width="80.37" height="142.227" id="XMLID_6_" x="-30.266" y="-70.86" transform="matrix(0.4495 0 0.0698 0.3959 -9.5557 0)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Half-N_2"  width="80.37" height="142.227" x="-30.266" y="-70.86" transform="matrix(-0.4495 0 -0.0698 -0.3959 9.5557 0)" style="overflow:visible;"/>
 </symbol>
 <symbol  id="QuarterBar" viewBox="-32.467 -5.979 26 11.898">
 	<polyline style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" points="-7.467,-4.637 -22.967,-4.637 -22.967,5.363 
@@ -24,16 +28,10 @@
 	<polygon style="fill:#FFFFFF;" points="-6.467,-4.137 -21.467,-4.137 -21.467,4.863 -6.467,4.863 	"/>
 	<polygon style="display:none;fill:none;" points="-32.467,5.863 -6.467,5.863 -6.467,-5.137 -32.467,-5.137 	"/>
 </symbol>
-<symbol  id="Triangle" viewBox="-29.65 -26.893 59.299 53.786">
-	<g id="layer1_3_" transform="translate(-91.423882,-253.5866)">
-		<path id="path3214_3_" style="fill:#FFFFFF;stroke:#000000;stroke-width:0.5669;stroke-linejoin:round;" d="M86.697,227
-			l20.743,36.922l-23.059,0.014l-4.422,7.904l40.828,0.006L95.88,226.977L86.697,227z"/>
-		<path id="path4185_3_" style="fill:#FFFFFF;stroke:#000000;stroke-width:0.5669;stroke-linejoin:round;" d="M86.696,227
-			l-24.639,44.84l4.517,8.131l20.44-37.041l11.406,21.004h9.035L86.696,227z"/>
-		<path id="path5156_3_" style="fill:#FFFFFF;stroke:#000000;stroke-width:0.5669;stroke-linejoin:round;" d="M87.02,242.938
-			l4.505,8.297l-11.586,20.611l40.852,0.021l-4.301,8.328l-49.912-0.229L87.02,242.938z"/>
-	</g>
-</symbol>
+<g id="N_1_">
+	
+		<use xlink:href="#N_2_"  width="56.693" height="57.112" x="-28.346" y="-28.556" transform="matrix(1 0 0 -1 42.5195 42.5195)" style="overflow:visible;"/>
+</g>
 <g id="N">
 </g>
 <g id="Vertical_2_">
@@ -44,5 +42,12 @@
 </g>
 <g id="flange_8_">
 </g>
-<use xlink:href="#Triangle"  width="59.299" height="53.786" x="-29.65" y="-26.893" transform="matrix(1 0 0 -1 42.5195 42.7627)" style="overflow:visible;"/>
+<g id="Vertical_6_">
+</g>
+<g id="flange_6_">
+</g>
+<g id="Vertical_7_">
+</g>
+<g id="flange_1_">
+</g>
 </svg>
