@@ -1,9 +1,16 @@
 Namecoin Graphics
 =================
 
-This is a repo for visual collateral (logos, badges, etc) for Namecoin.  Most of it is still very raw and branding guidelines and other extensions are being worked on.  Feel free to flesh out the designs, even basic shading would be a good start.
+This is a repo for visual collateral (logos, badges, etc) for Namecoin.  
 
-If you are a professional design, we would like to go through a thorough design process and build a compelling visual identity for Namecoin.
+##Namecoin Blue
+* **Hex** \#7CA3CC
+* **Lab** L: 66 a: -3 b: -25  / 66, -3, -25
+* **RGB** R: 124 G: 163 B: 204 / 124, 163, 204
+* **HSB** H: 211 S: 39 B: 80 / 120, 39, 80 
+* **CMYK** C: 39 M: 20 Y: 0 K: 20 / 39, 20, 0, 20 
+
+You can find associated color pallettes [here](http://paletton.com/#uid=13A0u0kdAIF3ZYj8SRJhWytlSsx).
 
 | ![Coin Front](https://raw.github.com/indolering/nmc-graphics/master/png/500/nmc-coinage-2up.png) | ![Badge](https://raw.github.com/indolering/nmc-graphics/master/png/250/badge-prototype.png) |      ![Mini-Logo](https://raw.github.com/indolering/nmc-graphics/master/png/100/nmc-logo-mini.png) |
 | :-----------: | :-----------: | -----------: |
