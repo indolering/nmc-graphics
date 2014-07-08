@@ -5,10 +5,10 @@ This is a repo for visual collateral (logos, badges, etc) for Namecoin.
 
 ##Namecoin Blue
 * **Hex** \#7CA3CC
-* **Lab** L: 66 a: -3 b: -25  / 66, -3, -25
-* **RGB** R: 124 G: 163 B: 204 / 124, 163, 204
-* **HSB** H: 211 S: 39 B: 80 / 120, 39, 80 
-* **CMYK** C: 39 M: 20 Y: 0 K: 20 / 39, 20, 0, 20 
+* **Lab** 66, -3, -25
+* **RGB** 124, 163, 204
+* **HSB** 120, 39, 80 
+* **CMYK** 39, 20, 0, 20 
 
 You can find associated color pallettes [here](http://paletton.com/#uid=13A0u0kdAIF3ZYj8SRJhWytlSsx).
 
